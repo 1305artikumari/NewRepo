@@ -1,0 +1,19 @@
+{
+  "name": "nodeassignment7",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Asgmt9.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon Asgmt9.js",
+    "start Server": "node Asgmt9.js "
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
